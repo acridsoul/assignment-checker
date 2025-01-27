@@ -1,5 +1,5 @@
-# assignment-checker
-Using playwright library to do stuff
+<h1 align="center"> DEPRECATED 😿 </h1>
 
-### Former Project Here
-[Puppeteer Version](https://github.com/acridsoul/Selenium-Projects/tree/main/1.assignment-checker-mku)
+<h2 align="center">Codebase and URL changed, so gotta make wholescale changes!</h2>
+
+<h2 align="center">Fixes coming soon !</h2>
